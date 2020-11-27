@@ -7,6 +7,6 @@ in the same object.
 
 ![debbugTree.png](https://github.com/daviporto/serialization-library/blob/master/testSerialization/debbugTree.png?raw=true)
 
-thank you theCherno for all the amazing tutorials, this library is a inspired in his library that you can fin in https://github.com/TheCherno/JavaSerialization
+thank you theCherno for all the amazing tutorials, this library is a inspired in his library that you can find in https://github.com/TheCherno/JavaSerialization
 
 
